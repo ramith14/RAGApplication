@@ -56,24 +56,12 @@ streamlit run app.py
 
 Then upload one or more PDF/TXT files from the sidebar and click **Process Files**.
 
-## 🐳 Run with Docker
-```bash
-# Build and run
-docker-compose up --build
-
-# Stop
-docker-compose down
-```
-
-Open http://localhost:7860
-
 ## ☁️ Deploy on Hugging Face Spaces (Free)
 
 1. Go to [huggingface.co/spaces](https://huggingface.co/spaces)
 2. Click **Create new Space**
 3. Settings:
    - **Name:** ai-study-assistant
-   - **SDK:** Docker
    - **Visibility:** Public
 4. Push your code:
 ```bash
