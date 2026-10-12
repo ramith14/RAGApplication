@@ -5,7 +5,7 @@ from dataclasses import dataclass
 @dataclass
 class AppConfig:
     # App
-    app_title: str = "📚 AI Study Assistant"
+    app_title: str = "Study Assistant"
     app_icon: str = "📚"
     app_description: str = "Upload any PDF and chat with it instantly using RAG + LLaMA 3"
     layout: str = "wide"
