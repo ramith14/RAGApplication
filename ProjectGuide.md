@@ -1,3 +1,5 @@
+# This is for only developer who Developed it. It is not for others
+
 # RAGApplication — 30-Minute Project Study Guide
 
 **Repository:** https://github.com/ramith14/RAGApplication  
